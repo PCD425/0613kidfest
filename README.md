@@ -7,6 +7,7 @@ Shared event materials for the Kidova Route Lab booth.
 - `interactive-survey/index.html` — family route-safety game and anonymous caregiver survey
 - `print/print-kit.pdf` — print-ready four-page event kit
 - `print/print-kit.html` — editable source for the print kit
+- `SURVEY_GUIDE.md` — survey purpose, complete question list, privacy rules, and data fields
 
 ## Print kit pages
 
