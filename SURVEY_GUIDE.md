@@ -25,7 +25,7 @@ The anonymous survey and pilot-interest contact information must remain separate
 
 ## Recommended Event Use
 
-1. Invite the child to complete the Route Lab missions.
+1. Invite the child to complete the Kidova safety missions.
 2. Ask the caregiver to complete the anonymous survey.
 3. Let participants complete the survey independently when possible.
 4. Do not lead participants toward positive answers.
@@ -238,4 +238,3 @@ The separate pilot-interest export contains:
 - Review alert-threshold responses for evidence of false-alert anxiety.
 - Review trust responses before designing privacy, school, or verified-helper features.
 - Do not interpret KidsFest attendees as a representative sample of all NYC families.
-

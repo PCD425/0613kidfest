@@ -1,6 +1,6 @@
 # Kidova at NYC KidsFest — June 13
 
-Shared event materials for the Kidova Route Lab booth.
+Shared event materials for the Kidova KidsFest family activity.
 
 ## What is included
 
@@ -25,7 +25,7 @@ Pilot-interest contact information is stored separately from anonymous survey re
 
 ## Event flow
 
-1. Invite a child and caregiver to try the three-minute Route Lab mission.
+1. Invite a child and caregiver to try the three-minute Kidova safety mission.
 2. Let the child choose a response to a disrupted route.
 3. Ask the caregiver to complete the anonymous validation survey.
 4. Invite them to vote on the caregiver wall.
