@@ -4,10 +4,11 @@ Shared event materials for the Kidova Route Lab booth.
 
 ## What is included
 
-- `interactive-survey/index.html` — family route-safety game and anonymous caregiver survey
+- `index.html` — publish-ready family route-safety game and anonymous caregiver survey
 - `print/print-kit.pdf` — print-ready four-page event kit
 - `print/print-kit.html` — editable source for the print kit
 - `SURVEY_GUIDE.md` — survey purpose, complete question list, privacy rules, and data fields
+- `COLLABORATOR_EDITING_GUIDE.md` — what collaborators should edit, test, and publish
 
 ## Print kit pages
 
@@ -18,7 +19,7 @@ Shared event materials for the Kidova Route Lab booth.
 
 ## How to use the interactive survey
 
-Open `interactive-survey/index.html` in a browser. Responses are stored only in that browser's local storage. Staff can export anonymous survey responses as CSV from the completion screen.
+Open `index.html` in a browser. Responses are stored only in that browser's local storage. Staff can export anonymous survey responses as CSV from the completion screen.
 
 Pilot-interest contact information is stored separately from anonymous survey responses.
 
