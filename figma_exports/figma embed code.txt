@@ -1,0 +1,1 @@
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/FkB5b8UKclkKgqiBkCPh5y/KIDOVA-prototype?node-id=493-6&p=f&viewport=125%2C213%2C0.12&scaling=scale-down&content-scaling=fixed&starting-point-node-id=493%3A6&show-proto-sidebar=1&page-id=493%3A5&embed-host=share" allowfullscreen></iframe>
